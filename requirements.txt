@@ -1,0 +1,8 @@
+discord 
+datetime
+json
+requests
+time
+asyncio
+hostbot
+os
